@@ -1,0 +1,592 @@
+"A 'Brand Catalog' is a combination of Brand (Wayfair, AllModern, Birch Lane, Perigold, Joss & Main), catalog (US, UK, Germany) and language (English, French).",The term the customer typed into the search bar,The primary class associated with the search term,The total number of impressions of the search term in the last 30 days,"Of the total impressions per class, what was the percentage of impressions for this search term",The percentage of searches where any 1 sku from the supplier appeared whether paid or organic,The percentage of searches where any 1 sku from the supplier appeared on the first page,The percentage of searches where any 1 sku from the supplier appeared on the first page in the top 8 slots
+Wayfair CA/EN,queen comforter set,Bedding Sets,1002,9.16%,10.98%,4.29%,0.4%
+Wayfair CA/EN,king comforter set,Bedding Sets,616,5.63%,11.2%,4.38%,0.16%
+Wayfair CA/EN,quilts and coverlets,Bedding Sets,62,0.57%,20.97%,0%,0%
+Wayfair CA/FR,housse de couette,Bedding Sets,989,18.27%,14.36%,3.13%,0.3%
+Wayfair CA/FR,ensemble de douillette,Bedding Sets,269,4.97%,16.36%,3.35%,0.74%
+Wayfair CA/FR,courtepointe,Bedding Sets,246,4.54%,11.38%,1.22%,0%
+Wayfair CA/FR,housse de couette king,Bedding Sets,224,4.14%,29.46%,5.8%,0.45%
+Wayfair CA/FR,couvre lit,Bedding Sets,180,3.33%,17.78%,4.44%,1.11%
+Wayfair CA/FR,douillette lit queen,Bedding Sets,107,1.98%,21.5%,5.61%,1.87%
+Wayfair CA/FR,couvre lit king,Bedding Sets,93,1.72%,18.28%,4.3%,0%
+Wayfair CA/FR,couette,Bedding Sets,81,1.5%,8.64%,1.23%,0%
+Wayfair CA/FR,douillette,Bedding Sets,76,1.4%,9.21%,2.63%,0%
+Wayfair CA/FR,edredon,Bedding Sets,75,1.39%,24%,9.33%,2.67%
+Wayfair CA/FR,housse couette,Bedding Sets,62,1.15%,16.13%,1.61%,0%
+Wayfair CA/FR,édredon,Bedding Sets,53,0.98%,33.96%,13.21%,1.89%
+Wayfair US,duvet cover,Bedding Sets,14445,5.59%,14.97%,6.41%,0.84%
+Wayfair US,outdoor cushions,Furniture Cushions,13173,33.14%,1.21%,0.72%,0.19%
+Wayfair US,comforter sets,Bedding Sets,11968,4.63%,47.56%,40.44%,31.22%
+Wayfair US,bedding,Bedding Sets,10865,4.2%,52.49%,46.92%,13.96%
+Wayfair US,comforter,Bedding Sets,10775,4.17%,60.4%,51.04%,27.37%
+Wayfair US,queen comforter sets,Bedding Sets,10748,4.16%,48.28%,38.93%,29.22%
+Wayfair US,king comforter sets,Bedding Sets,8776,3.4%,47.03%,38.17%,30.44%
+Wayfair US,mattress topper,Mattress Toppers and Pads,6991,34.72%,1.53%,0.84%,0.04%
+Wayfair US,queen bedding,Bedding Sets,6105,2.36%,36.56%,27.13%,5.81%
+Wayfair US,king bedding,Bedding Sets,5696,2.2%,52.3%,39.92%,12.39%
+Wayfair US,quilts,Bedding Sets,5243,2.03%,62.94%,51.17%,15.72%
+Wayfair US,king quilt,Bedding Sets,5081,1.97%,68.79%,56.29%,28.09%
+Wayfair US,king duvet cover,Bedding Sets,4856,1.88%,15.63%,7.25%,0.82%
+Wayfair US,bed pillows,Standard Bed Pillows,4785,65.86%,26.35%,23.34%,0.94%
+Wayfair US,dog bed,Dog Beds & Mats,4441,22.69%,0.47%,0.07%,0%
+Wayfair US,outdoor chair cushions,Furniture Cushions,4307,10.83%,1.88%,1.09%,0.63%
+Wayfair US,queen quilt,Bedding Sets,3979,1.54%,68.69%,55.82%,21.84%
+Wayfair US,bedspreads,Bedding Sets,3779,1.46%,45.22%,34.51%,7.81%
+Wayfair US,king comforter,Bedding Sets,3734,1.44%,58.14%,45.88%,29.33%
+Wayfair US,quilt,Bedding Sets,3573,1.38%,64.15%,54.66%,16.26%
+Wayfair US,queen duvet cover,Bedding Sets,3243,1.25%,15.97%,5.7%,0.43%
+Wayfair US,boho bedding,Bedding Sets,3059,1.18%,3.4%,0.72%,0.13%
+Wayfair US,queen comforter,Bedding Sets,2969,1.15%,60.02%,47.93%,26.41%
+Wayfair US,queen bedspreads,Bedding Sets,2944,1.14%,45.24%,30.91%,6.73%
+Wayfair US,down comforter,Duvet Fills and Down Comforters,2937,32.34%,11.61%,7.56%,0.68%
+Wayfair US,king bedspread,Bedding Sets,2832,1.1%,44.14%,29.56%,6.5%
+Wayfair US,duvet insert,Duvet Fills and Down Comforters,2682,29.53%,8.2%,5.74%,0.75%
+Wayfair US,bed in a bag,Bedding Sets,2332,0.9%,7.03%,2.14%,0.21%
+Wayfair US,outdoor seat cushions,Furniture Cushions,2324,5.85%,2.67%,1.68%,0.56%
+Wayfair US,comforters,Bedding Sets,2286,0.88%,59.84%,48.21%,25.46%
+Wayfair US,quilt sets,Bedding Sets,1914,0.74%,67.45%,54.75%,14.32%
+Wayfair US,white comforter,Bedding Sets,1878,0.73%,63.63%,55.01%,16.67%
+Wayfair US,comforter set,Bedding Sets,1838,0.71%,55.28%,48.53%,39.17%
+Wayfair US,king size comforter sets,Bedding Sets,1823,0.71%,49.53%,39.82%,29.51%
+Wayfair US,california king comforter,Bedding Sets,1795,0.69%,25.07%,24.9%,24.29%
+Wayfair US,bedspread,Bedding Sets,1786,0.69%,43.34%,33.09%,8.29%
+Wayfair US,super oversized king bedspread,Bedding Sets,1726,0.67%,46.29%,34.13%,9.1%
+Wayfair US,queen bedding set,Bedding Sets,1722,0.67%,43.96%,31.07%,5.92%
+Wayfair US,king quilt sets,Bedding Sets,1679,0.65%,70.99%,56.94%,36.09%
+Wayfair US,super oversized king comforter,Bedding Sets,1670,0.65%,54.31%,42.57%,3.83%
+Wayfair US,california king comforter sets,Bedding Sets,1627,0.63%,26.31%,25.94%,24.83%
+Wayfair US,twin bedding,Bedding Sets,1547,0.6%,46.35%,37.1%,10.41%
+Wayfair US,replacement patio cushions,Furniture Cushions,1543,3.88%,1.49%,0.78%,0.19%
+Wayfair US,coastal bedding,Bedding Sets,1522,0.59%,17.61%,16.69%,1.71%
+Wayfair US,patio chair cushions,Furniture Cushions,1517,3.82%,2.57%,1.38%,0.13%
+Wayfair US,twin comforter,Bedding Sets,1433,0.55%,66.02%,54.57%,32.38%
+Wayfair US,queen quilt sets,Bedding Sets,1427,0.55%,71.41%,57.74%,16.26%
+Wayfair US,duvet cover set,Bedding Sets,1383,0.54%,14.32%,4.34%,0.87%
+Wayfair US,coverlet,Bedding Sets,1329,0.51%,36.04%,27.54%,9.1%
+Wayfair US,twin comforter set,Bedding Sets,1308,0.51%,66.9%,55.96%,32.95%
+Wayfair US,dining chair cushions,Furniture Cushions,1300,3.27%,28.85%,19.38%,7%
+Wayfair US,king size quilts,Bedding Sets,1270,0.49%,71.97%,59.13%,15.28%
+Wayfair US,bed spreads,Bedding Sets,1258,0.49%,47.62%,37.84%,11.53%
+Wayfair US,king bedding set,Bedding Sets,1250,0.48%,40.48%,26.24%,5.92%
+Wayfair US,twin quilt,Bedding Sets,1222,0.47%,64.73%,50.82%,13.58%
+Wayfair US,mattress pad,Mattress Toppers and Pads,1201,5.96%,3.16%,2.33%,0.17%
+Wayfair US,farmhouse bedding,Bedding Sets,1152,0.45%,57.64%,40.28%,13.19%
+Wayfair US,white comforter set,Bedding Sets,1149,0.44%,55.27%,44.39%,8.44%
+Wayfair US,king size comforter,Bedding Sets,1130,0.44%,60.53%,48.58%,29.56%
+Wayfair US,seat cushions,Furniture Cushions,1058,2.66%,3.97%,2.93%,0.95%
+Wayfair US,queen bed in a bag,Bedding Sets,1057,0.41%,12.39%,4.92%,0.76%
+Wayfair US,cotton quilt,Bedding Sets,1017,0.39%,20.75%,18.29%,14.36%
+Wayfair US,duvet covers,Bedding Sets,1002,0.39%,17.76%,4.99%,0.8%
+Wayfair US,king size bedding,Bedding Sets,872,0.34%,40.14%,29.24%,7%
+Wayfair US,queen bed spread,Bedding Sets,837,0.32%,49.82%,38.59%,13.5%
+Wayfair US,king coverlet,Bedding Sets,827,0.32%,57.07%,46.55%,20.56%
+Wayfair US,green comforter,Bedding Sets,807,0.31%,84.14%,77.7%,43.12%
+Wayfair US,full comforter set,Bedding Sets,804,0.31%,59.08%,48.51%,31.47%
+Wayfair US,white bedding,Bedding Sets,804,0.31%,35.7%,27.61%,4.73%
+Wayfair US,down alternative comforter,Duvet Fills and Down Comforters,770,8.48%,10.91%,5.71%,0.65%
+Wayfair US,king size bed spreads,Bedding Sets,767,0.3%,44.33%,29.86%,9.39%
+Wayfair US,queen bed comforter sets,Bedding Sets,758,0.29%,43.4%,33.51%,20.58%
+Wayfair US,christmas bedding,Bedding Sets,747,0.29%,8.57%,8.57%,0.13%
+Wayfair US,queen coverlet,Bedding Sets,686,0.27%,56.27%,47.67%,22.16%
+Wayfair US,oversized king bedding 120x120,Bedding Sets,676,0.26%,56.8%,44.67%,9.91%
+Wayfair US,king duvet,Bedding Sets,671,0.26%,13.41%,5.96%,0.6%
+Wayfair US,burnt orange comforter set,Bedding Sets,642,0.25%,68.38%,65.58%,11.68%
+Wayfair US,quilt set,Bedding Sets,631,0.24%,71.63%,58.8%,35.5%
+Wayfair US,outdoor bench cushion,Furniture Cushions,622,1.56%,2.73%,1.93%,0.64%
+Wayfair US,black comforter set,Bedding Sets,619,0.24%,20.68%,20.52%,19.22%
+Wayfair US,bedding set,Bedding Sets,597,0.23%,39.7%,31.99%,11.89%
+Wayfair US,full size comforter set,Bedding Sets,597,0.23%,62.14%,53.1%,30.15%
+Wayfair US,king pillows,Standard Bed Pillows,595,8.19%,47.06%,44.2%,3.7%
+Wayfair US,twin bedding set,Bedding Sets,595,0.23%,53.61%,46.89%,8.4%
+Wayfair US,queen size comforter sets,Bedding Sets,589,0.23%,51.61%,41.26%,31.41%
+Wayfair US,twin xl comforter,Bedding Sets,588,0.23%,18.71%,18.37%,16.5%
+Wayfair US,boys bedding,Bedding Sets,584,0.23%,39.21%,30.31%,7.71%
+Wayfair US,linen duvet cover,Bedding Sets,580,0.22%,7.24%,6.9%,0.69%
+Wayfair US,twin bedspreads,Bedding Sets,579,0.22%,48.36%,32.82%,12.95%
+Wayfair US,black comforter,Bedding Sets,576,0.22%,18.23%,18.06%,15.8%
+Wayfair US,queen conforter set,Bedding Sets,570,0.22%,44.74%,36.14%,29.65%
+Wayfair US,sage green comforter sets,Bedding Sets,564,0.22%,79.43%,73.58%,18.44%
+Wayfair US,chair pads,Furniture Cushions,559,1.41%,4.29%,3.76%,1.97%
+Wayfair US,blue comforter set,Bedding Sets,558,0.22%,58.78%,47.67%,33.15%
+Wayfair US,green bedding,Bedding Sets,557,0.22%,66.07%,55.12%,14%
+Wayfair US,velvet bedding,Bedding Sets,549,0.21%,31.33%,31.33%,30.97%
+Wayfair US,pink comforter,Bedding Sets,542,0.21%,85.42%,77.86%,26.94%
+Wayfair US,twin duvet cover,Bedding Sets,538,0.21%,23.42%,12.27%,1.12%
+Wayfair US,king size bedspreads,Bedding Sets,532,0.21%,40.6%,24.62%,6.58%
+Wayfair US,pink bedding,Bedding Sets,529,0.2%,69.19%,54.06%,18.53%
+Wayfair US,bed cover,Bedding Sets,528,0.2%,45.83%,40.91%,5.3%
+Wayfair US,queen duvet,Bedding Sets,524,0.2%,15.08%,7.06%,0.76%
+Wayfair US,california king quilt,Bedding Sets,517,0.2%,29.98%,29.4%,21.08%
+Wayfair US,bench cushion,Furniture Cushions,514,1.29%,1.17%,0.97%,0.58%
+Wayfair US,bed spread,Bedding Sets,512,0.2%,45.51%,39.06%,12.11%
+Wayfair US,olive green comforter set,Bedding Sets,511,0.2%,86.5%,83.95%,80.63%
+Wayfair US,queen mattress topper,Mattress Toppers and Pads,509,2.53%,2.16%,0.39%,0%
+Wayfair US,oversized king quilt,Bedding Sets,505,0.2%,73.07%,60.99%,46.14%
+Wayfair US,memory foam mattress topper,Mattress Toppers and Pads,502,2.49%,1.2%,1%,0.2%
+Wayfair US,purple comforter,Bedding Sets,501,0.19%,65.27%,48.7%,4.19%
+Wayfair US,white quilt,Bedding Sets,490,0.19%,46.53%,38.16%,3.88%
+Wayfair US,pink comforter set,Bedding Sets,487,0.19%,74.74%,61.81%,18.69%
+Wayfair US,king quilts,Bedding Sets,482,0.19%,68.05%,53.11%,13.49%
+Wayfair US,king bed comforter set,Bedding Sets,474,0.18%,47.05%,39.66%,23%
+Wayfair US,100 percent cotton quilts king,Bedding Sets,461,0.18%,25.6%,12.36%,7.16%
+Wayfair US,shabby chic bedding,Bedding Sets,457,0.18%,50.55%,40.92%,14.22%
+Wayfair US,boho comforter,Bedding Sets,456,0.18%,19.74%,3.29%,0.44%
+Wayfair US,blue comforter,Bedding Sets,452,0.17%,75.66%,62.61%,43.36%
+Wayfair US,king duvet insert,Duvet Fills and Down Comforters,439,4.83%,12.07%,7.97%,0.46%
+Wayfair US,full size comforter,Bedding Sets,438,0.17%,51.6%,42.92%,25.8%
+Wayfair US,velvet comforter,Bedding Sets,426,0.16%,16.9%,15.26%,1.88%
+Wayfair US,full size bedding,Bedding Sets,413,0.16%,10.41%,4.36%,1.21%
+Wayfair US,floral bedding,Bedding Sets,412,0.16%,28.64%,17.72%,9.22%
+Wayfair US,faux fur comforter,Bedding Sets,410,0.16%,56.59%,49.76%,38.29%
+Wayfair US,twin quilt set,Bedding Sets,397,0.15%,67%,53.15%,15.62%
+Wayfair US,128 x 120 super oversized king bedspread,Bedding Sets,395,0.15%,82.78%,71.14%,8.61%
+Wayfair US,queen duvet insert,Duvet Fills and Down Comforters,392,4.32%,14.29%,11.48%,0.77%
+Wayfair US,queen quilts,Bedding Sets,386,0.15%,69.95%,56.48%,24.61%
+Wayfair US,purple bedding,Bedding Sets,382,0.15%,55.24%,38.48%,11.26%
+Wayfair US,boho comforter set,Bedding Sets,380,0.15%,28.16%,12.89%,1.58%
+Wayfair US,large dog bed,Dog Beds & Mats,376,1.92%,2.93%,1.06%,0%
+Wayfair US,king size quilt sets,Bedding Sets,375,0.15%,67.2%,50.13%,28.53%
+Wayfair US,oversized queen quilt sets,Bedding Sets,373,0.14%,75.87%,65.15%,53.35%
+Wayfair US,microfiber comforter,Bedding Sets,370,0.14%,75.95%,72.16%,52.16%
+Wayfair US,blue bedding,Bedding Sets,370,0.14%,50.54%,37.3%,13.78%
+Wayfair US,king size bedding sets,Bedding Sets,368,0.14%,43.21%,27.99%,8.15%
+Wayfair US,black and white bedding,Bedding Sets,367,0.14%,29.16%,13.9%,4.09%
+Wayfair US,full comforter,Bedding Sets,358,0.14%,46.65%,41.06%,24.3%
+Wayfair US,oversized cal king bedspreads,Bedding Sets,358,0.14%,8.66%,4.75%,0.84%
+Wayfair US,queen bedspread,Bedding Sets,357,0.14%,38.1%,27.17%,7%
+Wayfair US,gray comforter,Bedding Sets,357,0.14%,78.71%,64.71%,38.1%
+Wayfair US,patchwork quilt,Bedding Sets,356,0.14%,55.9%,38.76%,4.49%
+Wayfair US,grey comforter,Bedding Sets,355,0.14%,74.08%,67.32%,38.87%
+Wayfair US,twin xl mattress topper,Mattress Toppers and Pads,347,1.72%,9.8%,3.75%,0%
+Wayfair US,king duvet cover set,Bedding Sets,343,0.13%,18.08%,7%,2.04%
+Wayfair US,white duvet cover,Bedding Sets,340,0.13%,7.35%,5.29%,0%
+Wayfair US,yellow comforter,Bedding Sets,338,0.13%,84.32%,78.4%,21.6%
+Wayfair US,king size quilt,Bedding Sets,335,0.13%,68.66%,56.72%,19.1%
+Wayfair US,bed pillow,Standard Bed Pillows,335,4.61%,28.06%,25.97%,1.49%
+Wayfair US,king down comforter,Duvet Fills and Down Comforters,333,3.67%,12.91%,7.81%,0.6%
+Wayfair US,down pillows,Standard Bed Pillows,332,4.57%,87.05%,86.75%,29.82%
+Wayfair US,teal comforter set,Bedding Sets,328,0.13%,75%,62.8%,35.37%
+Wayfair US,velvet quilt,Bedding Sets,326,0.13%,26.69%,25.46%,0.92%
+Wayfair US,dog beds,Dog Beds & Mats,326,1.67%,1.84%,0.61%,0.31%
+Wayfair US,linen bedding,Bedding Sets,320,0.12%,13.13%,12.81%,0%
+Wayfair US,outdoor cushion,Furniture Cushions,319,0.8%,4.7%,2.82%,0.63%
+Wayfair US,blue quilt,Bedding Sets,319,0.12%,71.47%,57.99%,33.54%
+Wayfair US,king bedspreads,Bedding Sets,313,0.12%,53.99%,33.55%,7.67%
+Wayfair US,bohemian bedding,Bedding Sets,312,0.12%,13.14%,8.65%,0.96%
+Wayfair US,oversized king comforter,Bedding Sets,309,0.12%,53.4%,45.95%,1.62%
+Wayfair US,quilted bedspreads,Bedding Sets,305,0.12%,61.64%,50.49%,19.02%
+Wayfair US,emerald green comforter,Bedding Sets,305,0.12%,79.34%,69.84%,52.13%
+Wayfair US,king size pillows,Standard Bed Pillows,300,4.13%,47.67%,44.67%,6%
+Wayfair US,queen size quilts,Bedding Sets,297,0.11%,65.32%,51.52%,11.45%
+Wayfair US,purple comforter set,Bedding Sets,296,0.11%,36.15%,24.66%,1.35%
+Wayfair US,king bed spread,Bedding Sets,295,0.11%,44.07%,31.53%,8.14%
+Wayfair US,king spreads,Bedding Sets,294,0.11%,58.5%,54.42%,49.32%
+Wayfair US,queen bedspreads sets,Bedding Sets,293,0.11%,40.96%,24.91%,9.22%
+Wayfair US,body pillow,Standard Bed Pillows,290,3.99%,1.72%,1.72%,0%
+Wayfair US,kids comforter sets,Bedding Sets,289,0.11%,26.3%,25.95%,24.22%
+Wayfair US,green quilt,Bedding Sets,286,0.11%,44.76%,31.82%,16.08%
+Wayfair US,luxury bedding,Bedding Sets,280,0.11%,26.43%,11.07%,2.5%
+Wayfair US,christmas quilts,Bedding Sets,280,0.11%,22.5%,22.14%,0.71%
+Wayfair US,black and white comforter,Bedding Sets,270,0.1%,49.26%,30%,11.11%
+Wayfair US,queen duvet set,Bedding Sets,270,0.1%,23.7%,6.67%,0.37%
+Wayfair US,green duvet cover,Bedding Sets,268,0.1%,52.24%,39.93%,10.82%
+Wayfair US,teal bedding,Bedding Sets,265,0.1%,40%,22.64%,10.19%
+Wayfair US,linen,Bedding Sets,264,0.1%,32.95%,32.2%,3.41%
+Wayfair US,grey comforter set,Bedding Sets,262,0.1%,65.65%,53.44%,35.88%
+Wayfair US,coverlets,Bedding Sets,260,0.1%,45%,33.85%,13.08%
+Wayfair US,emerald green bedding,Bedding Sets,260,0.1%,78.46%,68.85%,29.23%
+Wayfair US,full bedding,Bedding Sets,260,0.1%,23.08%,16.54%,12.69%
+Wayfair US,kelly clarkson bedding,Bedding Sets,253,0.1%,97.63%,97.63%,26.09%
+Wayfair US,queen size comforter,Bedding Sets,253,0.1%,62.85%,50.99%,28.46%
+Wayfair US,sage green bedding,Bedding Sets,250,0.1%,50.4%,40.4%,12.8%
+Wayfair US,king comforters,Bedding Sets,250,0.1%,62%,44.8%,29.2%
+Wayfair US,rustic bedding,Bedding Sets,246,0.1%,10.57%,2.03%,0.41%
+Wayfair US,twin quilts,Bedding Sets,246,0.1%,56.91%,39.43%,13.01%
+Wayfair US,queen mattress pad,Mattress Toppers and Pads,243,1.21%,6.58%,5.35%,1.23%
+Wayfair US,white queen comforter set,Bedding Sets,239,0.09%,60.67%,51.46%,21.34%
+Wayfair US,dark green comforter sets,Bedding Sets,238,0.09%,81.09%,74.37%,71.85%
+Wayfair US,king quilt set,Bedding Sets,238,0.09%,71.01%,56.72%,42.02%
+Wayfair US,yellow bedding,Bedding Sets,236,0.09%,63.56%,55.93%,13.98%
+Wayfair US,fall quilts,Bedding Sets,230,0.09%,29.13%,24.78%,0.43%
+Wayfair US,queen bedding sets,Bedding Sets,228,0.09%,50%,33.77%,9.21%
+Wayfair US,beige comforter,Bedding Sets,227,0.09%,83.26%,74.89%,55.95%
+Wayfair US,gold comforter set,Bedding Sets,224,0.09%,77.23%,65.63%,25.45%
+Wayfair US,bed quilts,Bedding Sets,220,0.09%,56.82%,43.64%,16.36%
+Wayfair US,queen size bedding,Bedding Sets,220,0.09%,40.45%,29.55%,8.18%
+Wayfair US,college dorm bedding twin xl,Bedding Sets,218,0.08%,11.93%,11.01%,0.46%
+Wayfair US,queen comforters,Bedding Sets,216,0.08%,65.28%,48.15%,19.44%
+Wayfair US,orange comforter,Bedding Sets,215,0.08%,66.98%,63.72%,19.53%
+Wayfair US,gray bedding,Bedding Sets,214,0.08%,59.35%,46.73%,13.55%
+Wayfair US,twin mattress topper,Mattress Toppers and Pads,214,1.06%,5.14%,3.27%,0.47%
+Wayfair US,beige comforter set,Bedding Sets,211,0.08%,75.36%,73.46%,21.8%
+Wayfair US,sage green comforter,Bedding Sets,211,0.08%,69.67%,63.98%,30.33%
+Wayfair US,seat cushion,Furniture Cushions,210,0.53%,5.71%,1.9%,0.48%
+Wayfair US,orange bedding,Bedding Sets,206,0.08%,46.12%,34.95%,3.4%
+Wayfair US,twin bedspread,Bedding Sets,205,0.08%,41.46%,32.2%,7.8%
+Wayfair US,gold comforter,Bedding Sets,204,0.08%,65.69%,52.94%,22.55%
+Wayfair US,king conforter,Bedding Sets,200,0.08%,51.5%,42%,23.5%
+Wayfair US,navy comforter,Bedding Sets,197,0.08%,80.2%,73.1%,23.86%
+Wayfair US,conforter,Bedding Sets,197,0.08%,63.96%,58.38%,35.53%
+Wayfair US,navy bedding,Bedding Sets,196,0.08%,61.73%,51.02%,27.55%
+Wayfair US,grey bedding,Bedding Sets,196,0.08%,51.53%,38.78%,11.22%
+Wayfair US,floral quilt,Bedding Sets,194,0.08%,57.22%,42.78%,15.46%
+Wayfair US,green comforter set,Bedding Sets,193,0.07%,73.06%,68.39%,32.12%
+Wayfair US,teal comforter,Bedding Sets,192,0.07%,89.58%,81.77%,41.15%
+Wayfair US,super oversized king quilt,Bedding Sets,192,0.07%,60.42%,51.04%,29.69%
+Wayfair US,white bedspread,Bedding Sets,192,0.07%,32.29%,21.35%,6.25%
+Wayfair US,red comforter set,Bedding Sets,189,0.07%,65.08%,50.79%,34.39%
+Wayfair US,king duvet set,Bedding Sets,189,0.07%,25.4%,10.05%,2.12%
+Wayfair US,neutral bedding,Bedding Sets,189,0.07%,62.43%,51.32%,22.22%
+Wayfair US,oversized queen comforter sets,Bedding Sets,189,0.07%,49.21%,39.15%,21.69%
+Wayfair US,coastal quilts,Bedding Sets,187,0.07%,26.2%,12.83%,5.35%
+Wayfair US,california king quilt sets,Bedding Sets,186,0.07%,33.33%,32.8%,21.51%
+Wayfair US,black and white comforter set,Bedding Sets,186,0.07%,46.24%,31.72%,11.29%
+Wayfair US,duvet cover queen,Bedding Sets,185,0.07%,25.95%,5.95%,0.54%
+Wayfair US,duvet cover king,Bedding Sets,184,0.07%,21.74%,7.61%,0%
+Wayfair US,goose down comforter,Duvet Fills and Down Comforters,183,2.02%,3.83%,2.19%,0.55%
+Wayfair US,bed comforter,Bedding Sets,180,0.07%,60.56%,51.11%,13.89%
+Wayfair US,bed covers,Bedding Sets,176,0.07%,47.16%,36.93%,2.27%
+Wayfair US,farmhouse quilt,Bedding Sets,176,0.07%,80.11%,61.93%,24.43%
+Wayfair US,oversized king bedspread,Bedding Sets,175,0.07%,40.57%,29.14%,7.43%
+Wayfair US,pink quilt,Bedding Sets,175,0.07%,88.57%,80%,48.57%
+Wayfair US,navy comforter set,Bedding Sets,175,0.07%,33.71%,32%,28%
+Wayfair US,lightweight summer quilts,Bedding Sets,174,0.07%,12.64%,11.49%,1.72%
+Wayfair US,taupe comforter,Bedding Sets,173,0.07%,68.21%,58.96%,53.76%
+Wayfair US,oversized cal king quilts,Bedding Sets,171,0.07%,36.26%,35.67%,35.09%
+Wayfair US,queen quilt set,Bedding Sets,169,0.07%,67.46%,59.17%,13.02%
+Wayfair US,comforter queen,Bedding Sets,169,0.07%,60.95%,51.48%,27.81%
+Wayfair US,cotton comforter,Bedding Sets,168,0.07%,12.5%,11.9%,1.19%
+Wayfair US,navy quilt,Bedding Sets,167,0.06%,59.88%,46.11%,5.39%
+Wayfair US,full size bedding set,Bedding Sets,165,0.06%,26.67%,18.18%,1.82%
+Wayfair US,100 percent cotton quilts,Bedding Sets,165,0.06%,29.7%,15.15%,9.09%
+Wayfair US,red comforter,Bedding Sets,164,0.06%,57.32%,45.73%,25%
+Wayfair US,white king comforter,Bedding Sets,164,0.06%,46.95%,32.32%,6.1%
+Wayfair US,twin coverlet,Bedding Sets,164,0.06%,57.93%,47.56%,16.46%
+Wayfair US,king size comforter set,Bedding Sets,163,0.06%,57.67%,47.85%,34.36%
+Wayfair US,extra large king size quilt,Bedding Sets,163,0.06%,71.78%,57.06%,38.65%
+Wayfair US,full bedding set,Bedding Sets,161,0.06%,18.01%,11.18%,1.24%
+Wayfair US,lavender or purple bedspreads,Bedding Sets,161,0.06%,90.06%,88.82%,87.58%
+Wayfair US,twin bed comforter sets,Bedding Sets,161,0.06%,64.6%,55.9%,26.09%
+Wayfair US,navy blue comforter,Bedding Sets,160,0.06%,64.38%,55.63%,28.13%
+Wayfair US,boho quilt,Bedding Sets,159,0.06%,20.13%,10.69%,1.26%
+Wayfair US,california king bedding,Bedding Sets,158,0.06%,10.13%,7.59%,1.9%
+Wayfair US,full size comforter sets,Bedding Sets,158,0.06%,63.29%,51.9%,28.48%
+Wayfair US,blush bedding,Bedding Sets,157,0.06%,47.77%,31.85%,11.47%
+Wayfair US,king bed pillows,Standard Bed Pillows,157,2.16%,37.58%,32.48%,5.1%
+Wayfair US,white quilt set,Bedding Sets,156,0.06%,48.08%,42.31%,27.56%
+Wayfair US,full size quilt,Bedding Sets,155,0.06%,34.19%,30.97%,3.23%
+Wayfair US,oversized queen comforter,Bedding Sets,154,0.06%,57.79%,47.4%,4.55%
+Wayfair US,oversized cal king comforters,Bedding Sets,153,0.06%,28.76%,26.14%,20.92%
+Wayfair US,oversized comforter,Bedding Sets,151,0.06%,61.59%,58.28%,3.97%
+Wayfair US,twin bed spread,Bedding Sets,151,0.06%,42.38%,30.46%,13.91%
+Wayfair US,girls comforter set,Bedding Sets,151,0.06%,47.02%,42.38%,35.1%
+Wayfair US,dark purple comforter sets,Bedding Sets,150,0.06%,34.67%,4%,1.33%
+Wayfair US,lavender bedding,Bedding Sets,150,0.06%,36.67%,18.67%,9.33%
+Wayfair US,queen size quilt sets,Bedding Sets,149,0.06%,68.46%,50.34%,15.44%
+Wayfair US,daybed comforter set,Bedding Sets,149,0.06%,20.13%,20.13%,0%
+Wayfair US,100 cotton comforter set queen,Bedding Sets,149,0.06%,20.81%,7.38%,2.01%
+Wayfair US,yellow comforter set,Bedding Sets,148,0.06%,79.05%,66.89%,38.51%
+Wayfair US,king size bedspread,Bedding Sets,146,0.06%,47.26%,30.82%,8.22%
+Wayfair US,queen bed quilt,Bedding Sets,145,0.06%,57.93%,45.52%,12.41%
+Wayfair US,twin bed in a bag,Bedding Sets,145,0.06%,43.45%,28.97%,1.38%
+Wayfair US,chair pad,Furniture Cushions,145,0.36%,8.97%,6.9%,3.45%
+Wayfair US,oversized king comforter sets,Bedding Sets,143,0.06%,41.26%,29.37%,4.9%
+Wayfair US,orange comforter set,Bedding Sets,142,0.05%,86.62%,78.87%,56.34%
+Wayfair US,king bedding sets,Bedding Sets,142,0.05%,47.89%,31.69%,9.86%
+Wayfair US,sherpa comforter,Bedding Sets,142,0.05%,26.76%,16.2%,2.11%
+Wayfair US,twin daybed bedding sets,Bedding Sets,142,0.05%,30.99%,22.54%,7.04%
+Wayfair US,french country,Bedding Sets,142,0.05%,2.82%,2.11%,1.41%
+Wayfair US,comforter king,Bedding Sets,141,0.05%,64.54%,48.23%,21.28%
+Wayfair US,bed in bag,Bedding Sets,140,0.05%,14.29%,4.29%,0.71%
+Wayfair US,7 piece comforter set,Bedding Sets,139,0.05%,43.17%,27.34%,19.42%
+Wayfair US,gray quilt,Bedding Sets,138,0.05%,70.29%,61.59%,33.33%
+Wayfair US,extra wide king bedspreads,Bedding Sets,137,0.05%,32.85%,3.65%,0.73%
+Wayfair US,cotton quilts,Bedding Sets,137,0.05%,21.9%,16.79%,12.41%
+Wayfair US,light blue comforter set,Bedding Sets,137,0.05%,62.77%,54.01%,33.58%
+Wayfair US,cal king comforter sets,Bedding Sets,136,0.05%,33.82%,33.82%,1.47%
+Wayfair US,fluffy comforter,Bedding Sets,136,0.05%,86.03%,78.68%,66.91%
+Wayfair US,outdoor patio furniture cushions,Furniture Cushions,136,0.34%,11.03%,6.62%,2.94%
+Wayfair US,cream bedding,Bedding Sets,135,0.05%,65.93%,65.19%,8.89%
+Wayfair US,microfiber comforter set,Bedding Sets,134,0.05%,77.61%,71.64%,59.7%
+Wayfair US,king bed in a bag,Bedding Sets,133,0.05%,15.79%,11.28%,4.51%
+Wayfair US,blue duvet cover,Bedding Sets,133,0.05%,22.56%,5.26%,0.75%
+Wayfair US,floral comforter set,Bedding Sets,132,0.05%,28.79%,25.76%,0.76%
+Wayfair US,white queen comforter,Bedding Sets,132,0.05%,65.91%,52.27%,9.09%
+Wayfair US,fall comforter,Bedding Sets,130,0.05%,43.08%,33.85%,28.46%
+Wayfair US,charcoal gray comforter sets,Bedding Sets,130,0.05%,84.62%,83.08%,79.23%
+Wayfair US,purple quilt,Bedding Sets,129,0.05%,89.15%,83.72%,44.19%
+Wayfair US,queen bed comforter,Bedding Sets,128,0.05%,62.5%,50%,26.56%
+Wayfair US,kids comforter,Bedding Sets,128,0.05%,33.59%,32.81%,28.91%
+Wayfair US,twin comforters,Bedding Sets,128,0.05%,64.84%,53.13%,30.47%
+Wayfair US,turquoise bedding,Bedding Sets,128,0.05%,45.31%,32.81%,5.47%
+Wayfair US,120x120 king quilt,Bedding Sets,128,0.05%,63.28%,54.69%,32.03%
+Wayfair US,fall comforter sets,Bedding Sets,127,0.05%,44.88%,38.58%,18.9%
+Wayfair US,floral comforter,Bedding Sets,126,0.05%,15.87%,7.14%,1.59%
+Wayfair US,yellow quilt,Bedding Sets,126,0.05%,69.84%,57.94%,25.4%
+Wayfair US,french country bedding,Bedding Sets,124,0.05%,72.58%,49.19%,12.9%
+Wayfair US,full bed comforter,Bedding Sets,124,0.05%,57.26%,44.35%,5.65%
+Wayfair US,132 x 120 king oversized comforter,Bedding Sets,124,0.05%,75%,63.71%,3.23%
+Wayfair US,feather pillows,Standard Bed Pillows,124,1.71%,92.74%,92.74%,38.71%
+Wayfair US,navy blue comforter sets,Bedding Sets,124,0.05%,62.9%,50.81%,34.68%
+Wayfair US,pink duvet cover,Bedding Sets,122,0.05%,47.54%,38.52%,14.75%
+Wayfair US,queen duvet cover set,Bedding Sets,122,0.05%,20.49%,8.2%,0.82%
+Wayfair US,navy blue bedding,Bedding Sets,121,0.05%,44.63%,28.93%,11.57%
+Wayfair US,18 x 18 outdoor chair cushions,Furniture Cushions,121,0.3%,9.09%,1.65%,0%
+Wayfair US,non slip kitchen chair pads,Furniture Cushions,120,0.3%,21.67%,0%,0%
+Wayfair US,standard pillows,Standard Bed Pillows,120,1.65%,48.33%,46.67%,6.67%
+Wayfair US,burgundy comforter,Bedding Sets,120,0.05%,68.33%,59.17%,0%
+Wayfair US,rust bedding,Bedding Sets,119,0.05%,58.82%,46.22%,0.84%
+Wayfair US,oversize king comforter,Bedding Sets,118,0.05%,55.93%,41.53%,1.69%
+Wayfair US,linen quilt,Bedding Sets,118,0.05%,32.2%,30.51%,1.69%
+Wayfair US,girls twin comforter set,Bedding Sets,118,0.05%,60.17%,46.61%,29.66%
+Wayfair US,queen down comforter,Duvet Fills and Down Comforters,118,1.3%,18.64%,11.86%,0.85%
+Wayfair US,bungalow rose quilt,Bedding Sets,117,0.05%,25.64%,2.56%,0.85%
+Wayfair US,white bedding set,Bedding Sets,117,0.05%,31.62%,20.51%,2.56%
+Wayfair US,twin comforter sets,Bedding Sets,116,0.04%,69.83%,56.9%,40.52%
+Wayfair US,farmhouse comforter,Bedding Sets,116,0.04%,25%,24.14%,20.69%
+Wayfair US,blush comforter set,Bedding Sets,115,0.04%,66.96%,54.78%,40%
+Wayfair US,king bed quilt,Bedding Sets,115,0.04%,75.65%,60%,12.17%
+Wayfair US,lavender comforter,Bedding Sets,115,0.04%,73.91%,58.26%,8.7%
+Wayfair US,oversized king coverlet,Bedding Sets,114,0.04%,58.77%,44.74%,17.54%
+Wayfair US,full quilt,Bedding Sets,114,0.04%,32.46%,31.58%,5.26%
+Wayfair US,comforter full,Bedding Sets,114,0.04%,46.49%,34.21%,20.18%
+Wayfair US,green duvet,Bedding Sets,112,0.04%,44.64%,33.93%,11.61%
+Wayfair US,laura ashley quilts,Bedding Sets,111,0.04%,5.41%,2.7%,0%
+Wayfair US,queen size bed spreads,Bedding Sets,111,0.04%,54.96%,43.24%,12.61%
+Wayfair US,dining chair pads,Furniture Cushions,111,0.28%,36.94%,22.52%,4.5%
+Wayfair US,white king comforter set,Bedding Sets,110,0.04%,56.36%,47.27%,10.91%
+Wayfair US,twin duvet,Bedding Sets,110,0.04%,29.09%,20.91%,2.73%
+Wayfair US,king size conforter set,Bedding Sets,110,0.04%,50%,42.73%,32.73%
+Wayfair US,oversized queen quilt,Bedding Sets,110,0.04%,79.09%,70.91%,50%
+Wayfair US,outdoor patio chair cushions,Furniture Cushions,109,0.27%,6.42%,2.75%,0%
+Wayfair US,bedding queen,Bedding Sets,108,0.04%,49.07%,36.11%,7.41%
+Wayfair US,august grove quilts,Bedding Sets,107,0.04%,82.24%,68.22%,17.76%
+Wayfair US,cal king comforter,Bedding Sets,107,0.04%,28.04%,28.04%,0%
+Wayfair US,full size bed comforter sets,Bedding Sets,107,0.04%,64.49%,53.27%,35.51%
+Wayfair US,king size comforters,Bedding Sets,107,0.04%,61.68%,42.99%,24.3%
+Wayfair US,winter comforter,Bedding Sets,107,0.04%,44.86%,33.64%,1.87%
+Wayfair US,modern bedding,Bedding Sets,106,0.04%,71.7%,59.43%,26.42%
+Wayfair US,modern farmhouse bedding,Bedding Sets,106,0.04%,16.04%,6.6%,0%
+Wayfair US,king mattress topper,Mattress Toppers and Pads,106,0.53%,3.77%,0%,0%
+Wayfair US,tahari home bedding,Bedding Sets,105,0.04%,47.62%,41.9%,6.67%
+Wayfair US,bedding king,Bedding Sets,104,0.04%,58.65%,45.19%,11.54%
+Wayfair US,fall comforters,Bedding Sets,104,0.04%,41.35%,25.96%,22.12%
+Wayfair US,farmhouse comforter set,Bedding Sets,103,0.04%,31.07%,30.1%,0.97%
+Wayfair US,girls twin bedding,Bedding Sets,103,0.04%,55.34%,45.63%,9.71%
+Wayfair US,bunk bed bedding,Bedding Sets,103,0.04%,47.57%,40.78%,8.74%
+Wayfair US,comforter sets by madison park,Bedding Sets,103,0.04%,33.01%,4.85%,0%
+Wayfair US,bed quilt,Bedding Sets,102,0.04%,63.73%,49.02%,13.73%
+Wayfair US,oversized queen bedspreads,Bedding Sets,102,0.04%,48.04%,30.39%,9.8%
+Wayfair US,western bedding,Bedding Sets,101,0.04%,4.95%,1.98%,0%
+Wayfair US,christmas quilt,Bedding Sets,101,0.04%,32.67%,30.69%,1.98%
+Wayfair US,bedding full,Bedding Sets,100,0.04%,26%,17%,10%
+Wayfair US,blue queen comforter set,Bedding Sets,100,0.04%,71%,50%,37%
+Wayfair US,twin xl comforter set,Bedding Sets,100,0.04%,30%,29%,22%
+Wayfair US,blush comforter,Bedding Sets,99,0.04%,82.83%,70.71%,25.25%
+Wayfair US,orthopedic dog bed,Dog Beds & Mats,99,0.51%,10.1%,2.02%,0%
+Wayfair US,comforter sets queen,Bedding Sets,99,0.04%,47.47%,38.38%,29.29%
+Wayfair US,brown comforter set,Bedding Sets,98,0.04%,33.67%,33.67%,25.51%
+Wayfair US,outdoor seat cushion,Furniture Cushions,98,0.25%,8.16%,7.14%,4.08%
+Wayfair US,velvet duvet,Bedding Sets,98,0.04%,40.82%,40.82%,0%
+Wayfair US,twin bed comforter,Bedding Sets,97,0.04%,62.89%,52.58%,19.59%
+Wayfair US,gold bedding,Bedding Sets,97,0.04%,52.58%,41.24%,13.4%
+Wayfair US,cotton duvet cover,Bedding Sets,97,0.04%,7.22%,3.09%,1.03%
+Wayfair US,blue and white bedding,Bedding Sets,96,0.04%,43.75%,30.21%,9.38%
+Wayfair US,24 piece comforter set,Bedding Sets,95,0.04%,87.37%,87.37%,55.79%
+Wayfair US,twin xl quilt,Bedding Sets,95,0.04%,30.53%,29.47%,2.11%
+Wayfair US,reversible quilt set,Bedding Sets,95,0.04%,70.53%,55.79%,13.68%
+Wayfair US,red bedding,Bedding Sets,94,0.04%,51.06%,39.36%,20.21%
+Wayfair US,reversible quilt,Bedding Sets,94,0.04%,62.77%,47.87%,27.66%
+Wayfair US,holiday bedding,Bedding Sets,94,0.04%,17.02%,17.02%,7.45%
+Wayfair US,queen size quilt,Bedding Sets,93,0.04%,69.89%,55.91%,15.05%
+Wayfair US,queen size bedding set,Bedding Sets,93,0.04%,41.94%,27.96%,7.53%
+Wayfair US,twin mattress pad,Mattress Toppers and Pads,93,0.46%,13.98%,11.83%,2.15%
+Wayfair US,cal king bedding,Bedding Sets,93,0.04%,31.18%,31.18%,12.9%
+Wayfair US,comforter set queen,Bedding Sets,93,0.04%,47.31%,38.71%,30.11%
+Wayfair US,down pillow,Standard Bed Pillows,92,1.27%,80.43%,80.43%,25%
+Wayfair US,king pillow,Standard Bed Pillows,91,1.25%,48.35%,45.05%,1.1%
+Wayfair US,gray comforter set,Bedding Sets,91,0.04%,65.93%,50.55%,27.47%
+Wayfair US,full size bed spread,Bedding Sets,90,0.03%,26.67%,15.56%,4.44%
+Wayfair US,boys comforter set,Bedding Sets,90,0.03%,58.89%,50%,37.78%
+Wayfair US,king mattress pad,Mattress Toppers and Pads,90,0.45%,6.67%,5.56%,1.11%
+Wayfair US,beding,Bedding Sets,89,0.03%,52.81%,43.82%,4.49%
+Wayfair US,100 percent cotton bedspreads,Bedding Sets,88,0.03%,17.05%,1.14%,0%
+Wayfair US,queen size bedspread sets,Bedding Sets,88,0.03%,46.59%,22.73%,4.55%
+Wayfair US,rainbow comforter,Bedding Sets,88,0.03%,68.18%,54.55%,1.14%
+Wayfair US,queen bed cover,Bedding Sets,88,0.03%,39.77%,26.14%,4.55%
+Wayfair US,turquoise comforter,Bedding Sets,87,0.03%,83.91%,75.86%,40.23%
+Wayfair US,cooling comforter,Bedding Sets,87,0.03%,19.54%,12.64%,2.3%
+Wayfair US,rust comforter,Bedding Sets,86,0.03%,69.77%,63.95%,36.05%
+Wayfair US,light blue comforter,Bedding Sets,86,0.03%,70.93%,60.47%,34.88%
+Wayfair US,grey quilt,Bedding Sets,85,0.03%,74.12%,65.88%,42.35%
+Wayfair US,cotton quilt set,Bedding Sets,85,0.03%,35.29%,25.88%,1.18%
+Wayfair US,full bed comforter set,Bedding Sets,85,0.03%,68.24%,55.29%,30.59%
+Wayfair US,black quilt,Bedding Sets,85,0.03%,29.41%,29.41%,0%
+Wayfair US,tan comforter,Bedding Sets,84,0.03%,72.62%,71.43%,5.95%
+Wayfair US,white coverlet,Bedding Sets,83,0.03%,33.73%,19.28%,1.2%
+Wayfair US,king bed coverlet,Bedding Sets,83,0.03%,48.19%,38.55%,15.66%
+Wayfair US,black and white quilt,Bedding Sets,83,0.03%,49.4%,37.35%,6.02%
+Wayfair US,outdoor dining chair cushions,Furniture Cushions,83,0.21%,12.05%,7.23%,2.41%
+Wayfair US,brown comforter,Bedding Sets,82,0.03%,25.61%,25.61%,6.1%
+Wayfair US,kids comforters,Bedding Sets,82,0.03%,39.02%,37.8%,37.8%
+Wayfair US,king conforter set,Bedding Sets,82,0.03%,53.66%,43.9%,35.37%
+Wayfair US,terracotta bedding,Bedding Sets,82,0.03%,13.41%,1.22%,0%
+Wayfair US,twin bedding sets,Bedding Sets,82,0.03%,51.22%,37.8%,6.1%
+Wayfair US,24x24 deep seat cushions,Furniture Cushions,81,0.2%,3.7%,1.23%,0%
+Wayfair US,blue quilts,Bedding Sets,81,0.03%,72.84%,59.26%,18.52%
+Wayfair US,pillow top mattress topper,Mattress Toppers and Pads,80,0.4%,23.75%,18.75%,0%
+Wayfair US,yellow bedspread,Bedding Sets,80,0.03%,63.75%,47.5%,27.5%
+Wayfair US,twin size bedding,Bedding Sets,79,0.03%,56.96%,41.77%,13.92%
+Wayfair US,rustic mountain cabin bedding,Bedding Sets,78,0.03%,14.1%,0%,0%
+Wayfair US,queen conforter,Bedding Sets,78,0.03%,66.67%,60.26%,38.46%
+Wayfair US,king size oversized bedspreads,Bedding Sets,78,0.03%,47.44%,30.77%,11.54%
+Wayfair US,modern comforter,Bedding Sets,78,0.03%,85.9%,75.64%,38.46%
+Wayfair US,dining room chair cushions,Furniture Cushions,78,0.2%,7.69%,2.56%,0%
+Wayfair US,country bedding,Bedding Sets,78,0.03%,52.56%,37.18%,11.54%
+Wayfair US,comforter sets king,Bedding Sets,78,0.03%,60.26%,48.72%,35.9%
+Wayfair US,forest green comforter set,Bedding Sets,78,0.03%,79.49%,79.49%,75.64%
+Wayfair US,cabin bedding,Bedding Sets,77,0.03%,15.58%,1.3%,0%
+Wayfair US,linens,Bedding Sets,77,0.03%,41.56%,40.26%,10.39%
+Wayfair US,tan bedding,Bedding Sets,77,0.03%,80.52%,74.03%,44.16%
+Wayfair US,silk comforter set,Bedding Sets,76,0.03%,80.26%,78.95%,30.26%
+Wayfair US,oversized king bedding,Bedding Sets,76,0.03%,75%,59.21%,22.37%
+Wayfair US,queen size bedspread,Bedding Sets,75,0.03%,53.33%,33.33%,6.67%
+Wayfair US,boys comforter,Bedding Sets,75,0.03%,70.67%,58.67%,37.33%
+Wayfair US,green comforter sets,Bedding Sets,75,0.03%,82.67%,77.33%,36%
+Wayfair US,twin bed quilts,Bedding Sets,74,0.03%,60.81%,47.3%,17.57%
+Wayfair US,lake house bedding sets,Bedding Sets,74,0.03%,27.03%,12.16%,0%
+Wayfair US,sage green duvet cover,Bedding Sets,73,0.03%,57.53%,49.32%,19.18%
+Wayfair US,red quilt,Bedding Sets,73,0.03%,67.12%,56.16%,27.4%
+Wayfair US,mattress toppers,Mattress Toppers and Pads,73,0.36%,6.85%,4.11%,0%
+Wayfair US,fall quilt,Bedding Sets,72,0.03%,33.33%,29.17%,1.39%
+Wayfair US,thick heavy comforter set,Bedding Sets,72,0.03%,88.89%,88.89%,68.06%
+Wayfair US,twin xl bedding,Bedding Sets,72,0.03%,18.06%,16.67%,1.39%
+Wayfair US,green quilt set,Bedding Sets,72,0.03%,75%,48.61%,19.44%
+Wayfair US,mid century modern bedding,Bedding Sets,72,0.03%,56.94%,45.83%,13.89%
+Wayfair US,oversized king quilts,Bedding Sets,71,0.03%,67.61%,53.52%,33.8%
+Wayfair US,pink bedspread,Bedding Sets,71,0.03%,71.83%,54.93%,21.13%
+Wayfair US,green velvet comforter,Bedding Sets,71,0.03%,81.69%,78.87%,4.23%
+Wayfair US,reversible comforter,Bedding Sets,71,0.03%,91.55%,88.73%,57.75%
+Wayfair US,queen size comforter set,Bedding Sets,70,0.03%,65.71%,48.57%,32.86%
+Wayfair US,purple bedspread,Bedding Sets,70,0.03%,67.14%,50%,45.71%
+Wayfair US,king size bed pillows,Standard Bed Pillows,70,0.96%,45.71%,42.86%,5.71%
+Wayfair US,white twin comforter,Bedding Sets,70,0.03%,82.86%,78.57%,17.14%
+Wayfair US,twin duvet insert,Duvet Fills and Down Comforters,70,0.77%,30%,24.29%,0%
+Wayfair US,duvet cover twin,Bedding Sets,69,0.03%,31.88%,8.7%,0%
+Wayfair US,quilt bedding,Bedding Sets,69,0.03%,72.46%,62.32%,39.13%
+Wayfair US,light grey comforter set,Bedding Sets,69,0.03%,56.52%,47.83%,28.99%
+Wayfair US,pink queen comforter sets,Bedding Sets,68,0.03%,77.94%,66.18%,44.12%
+Wayfair US,gray comforter sets,Bedding Sets,68,0.03%,69.12%,50%,29.41%
+Wayfair US,christmas comforter,Bedding Sets,68,0.03%,39.71%,39.71%,11.76%
+Wayfair US,blush pink comforter,Bedding Sets,68,0.03%,77.94%,67.65%,26.47%
+Wayfair US,beach bedding,Bedding Sets,68,0.03%,8.82%,1.47%,0%
+Wayfair US,blue bedspread,Bedding Sets,67,0.03%,64.18%,43.28%,11.94%
+Wayfair US,cotton comforter set,Bedding Sets,67,0.03%,40.3%,38.81%,0%
+Wayfair US,light blue quilt,Bedding Sets,67,0.03%,76.12%,61.19%,34.33%
+Wayfair US,white comforters,Bedding Sets,67,0.03%,68.66%,53.73%,13.43%
+Wayfair US,sage comforter set,Bedding Sets,67,0.03%,80.6%,80.6%,46.27%
+Wayfair US,taupe bedding,Bedding Sets,66,0.03%,63.64%,59.09%,59.09%
+Wayfair US,twin conforter set,Bedding Sets,66,0.03%,72.73%,62.12%,37.88%
+Wayfair US,quilt king,Bedding Sets,66,0.03%,72.73%,63.64%,24.24%
+Wayfair US,queen bedroom comforter sets,Bedding Sets,66,0.03%,72.73%,51.52%,22.73%
+Wayfair US,heavy winter comforter,Bedding Sets,66,0.03%,39.39%,27.27%,3.03%
+Wayfair US,comforter twin,Bedding Sets,66,0.03%,69.7%,65.15%,37.88%
+Wayfair US,clearance bedding,Bedding Sets,66,0.03%,39.39%,30.3%,7.58%
+Wayfair US,glam bedding,Bedding Sets,66,0.03%,36.36%,25.76%,16.67%
+Wayfair US,faux fur bedding,Bedding Sets,66,0.03%,51.52%,48.48%,39.39%
+Wayfair US,bedspread king,Bedding Sets,66,0.03%,54.55%,36.36%,15.15%
+Wayfair US,olive green comforter,Furniture Cushions,66,0.17%,92.42%,89.39%,50%
+Wayfair US,blush quilt,Bedding Sets,65,0.03%,80%,66.15%,23.08%
+Wayfair US,blue queen quilt,Bedding Sets,65,0.03%,76.92%,58.46%,27.69%
+Wayfair US,full bedspread,Bedding Sets,65,0.03%,26.15%,15.38%,1.54%
+Wayfair US,boy bedding,Bedding Sets,65,0.03%,47.69%,36.92%,10.77%
+Wayfair US,king oversized quilts,Bedding Sets,64,0.02%,96.88%,85.94%,82.81%
+Wayfair US,big fluffy down comforters,Duvet Fills and Down Comforters,64,0.7%,35.94%,26.56%,0%
+Wayfair US,mustard yellow comforter set,Bedding Sets,63,0.02%,82.54%,73.02%,20.63%
+Wayfair US,twin size comforter,Bedding Sets,63,0.02%,80.95%,77.78%,31.75%
+Wayfair US,cal king quilt,Bedding Sets,63,0.02%,39.68%,39.68%,33.33%
+Wayfair US,farmhouse quilts,Bedding Sets,62,0.02%,74.19%,54.84%,25.81%
+Wayfair US,green bedspread,Bedding Sets,62,0.02%,58.06%,38.71%,11.29%
+Wayfair US,full size quilt sets,Bedding Sets,62,0.02%,30.65%,29.03%,4.84%
+Wayfair US,dog couch,Dog Beds & Mats,62,0.32%,1.61%,0%,0%
+Wayfair US,queen bedroom comforter set,Bedding Sets,62,0.02%,74.19%,59.68%,41.94%
+Wayfair US,king bedroom comforter sets,Bedding Sets,62,0.02%,70.97%,51.61%,24.19%
+Wayfair US,king sized comforter,Bedding Sets,61,0.02%,63.93%,45.9%,32.79%
+Wayfair US,quilt queen,Bedding Sets,61,0.02%,77.05%,68.85%,21.31%
+Wayfair US,white king quilt,Bedding Sets,61,0.02%,67.21%,54.1%,27.87%
+Wayfair US,boho duvet cover,Bedding Sets,61,0.02%,9.84%,6.56%,3.28%
+Wayfair US,bed spread queen,Bedding Sets,60,0.02%,63.33%,58.33%,18.33%
+Wayfair US,beach and coastal bedding,Bedding Sets,60,0.02%,8.33%,0%,0%
+Wayfair US,fall bedspreads,Bedding Sets,60,0.02%,20%,3.33%,0%
+Wayfair US,queen bed coverlet,Bedding Sets,60,0.02%,50%,41.67%,13.33%
+Wayfair US,navy blue quilt,Bedding Sets,60,0.02%,68.33%,53.33%,20%
+Wayfair US,mens bedding,Bedding Sets,59,0.02%,49.15%,30.51%,8.47%
+Wayfair US,oversized king duvet cover,Bedding Sets,59,0.02%,22.03%,11.86%,1.69%
+Wayfair US,light blue bedding,Bedding Sets,59,0.02%,52.54%,33.9%,13.56%
+Wayfair US,queen size bed in a bag,Bedding Sets,59,0.02%,16.95%,8.47%,1.69%
+Wayfair US,ruffle bedding,Bedding Sets,59,0.02%,79.66%,72.88%,3.39%
+Wayfair US,fall bedding set,Bedding Sets,59,0.02%,32.2%,13.56%,3.39%
+Wayfair US,full size bed in a bag,Bedding Sets,59,0.02%,20.34%,13.56%,1.69%
+Wayfair US,california king comforter set,Bedding Sets,59,0.02%,35.59%,35.59%,33.9%
+Wayfair US,comforter set full,Bedding Sets,59,0.02%,71.19%,62.71%,35.59%
+Wayfair US,black and gold comforter set,Bedding Sets,59,0.02%,50.85%,42.37%,18.64%
+Wayfair US,white quilts,Bedding Sets,59,0.02%,59.32%,52.54%,5.08%
+Wayfair US,white down comforter,Duvet Fills and Down Comforters,58,0.64%,34.48%,29.31%,3.45%
+Wayfair US,boho quilt set,Bedding Sets,58,0.02%,50%,39.66%,0%
+Wayfair US,extra large king duvet cover,Bedding Sets,58,0.02%,25.86%,5.17%,0%
+Wayfair US,red bedspread,Bedding Sets,58,0.02%,50%,27.59%,1.72%
+Wayfair US,white king size comforter set,Bedding Sets,58,0.02%,68.97%,53.45%,6.9%
+Wayfair US,oversized king quilt sets,Bedding Sets,58,0.02%,81.03%,62.07%,36.21%
+Wayfair US,brown bedding,Bedding Sets,57,0.02%,31.58%,10.53%,1.75%
+Wayfair US,20x20 outdoor chair cushions,Furniture Cushions,57,0.14%,8.77%,3.51%,1.75%
+Wayfair US,pet bed,Dog Beds & Mats,56,0.29%,3.57%,1.79%,0%
+Wayfair US,boys twin bedding,Bedding Sets,56,0.02%,51.79%,42.86%,8.93%
+Wayfair US,cali king comforter set,Bedding Sets,56,0.02%,67.86%,58.93%,58.93%
+Wayfair US,purple duvet cover,Bedding Sets,56,0.02%,60.71%,46.43%,10.71%
+Wayfair US,millwood pines,Bedding Sets,56,0.02%,3.57%,0%,0%
+Wayfair US,white comforter queen,Bedding Sets,56,0.02%,71.43%,67.86%,3.57%
+Wayfair US,twin girls bedding,Bedding Sets,56,0.02%,51.79%,41.07%,12.5%
+Wayfair US,queen bed spreads,Bedding Sets,55,0.02%,52.73%,40%,14.55%
+Wayfair US,queen cotton quilt,Bedding Sets,55,0.02%,27.27%,7.27%,0%
+Wayfair US,queen quilted bedspread,Bedding Sets,55,0.02%,80%,61.82%,27.27%
+Wayfair US,modern comforter set,Bedding Sets,55,0.02%,61.82%,47.27%,14.55%
+Wayfair US,fur comforter,Bedding Sets,55,0.02%,36.36%,14.55%,5.45%
+Wayfair US,girls comforter,Bedding Sets,55,0.02%,83.64%,74.55%,43.64%
+Wayfair US,twin xl mattress pad,Mattress Toppers and Pads,55,0.27%,18.18%,16.36%,0%
+Wayfair US,lounge chair cushions,Furniture Cushions,54,0.14%,3.7%,1.85%,0%
+Wayfair US,full comforter sets,Bedding Sets,54,0.02%,64.81%,46.3%,27.78%
+Wayfair US,light comforter,Bedding Sets,54,0.02%,87.04%,74.07%,74.07%
+Wayfair US,king cotton quilt,Bedding Sets,54,0.02%,35.19%,25.93%,7.41%
+Wayfair US,satin comforter,Bedding Sets,54,0.02%,79.63%,74.07%,38.89%
+Wayfair US,comforter storage,Duvet Fills and Down Comforters,54,0.59%,77.78%,72.22%,0%
+Wayfair US,coastal quilt,Bedding Sets,53,0.02%,39.62%,22.64%,1.89%
+Wayfair US,8 piece bedding set,Bedding Sets,53,0.02%,39.62%,20.75%,3.77%
+Wayfair US,bedspread queen,Bedding Sets,53,0.02%,56.6%,39.62%,15.09%
+Wayfair US,outdoor chair cushion,Furniture Cushions,52,0.13%,13.46%,5.77%,0%
+Wayfair US,vintage bedding,Bedding Sets,52,0.02%,65.38%,50%,17.31%
+Wayfair US,red and black comforter set,Bedding Sets,52,0.02%,67.31%,59.62%,11.54%
+Wayfair US,queen size duvet cover,Bedding Sets,52,0.02%,25%,3.85%,0%
+Wayfair US,king size duvet cover set,Bedding Sets,52,0.02%,25%,5.77%,1.92%
+Wayfair US,pink quilt set,Bedding Sets,52,0.02%,90.38%,80.77%,53.85%
+Wayfair US,down blanket,Duvet Fills and Down Comforters,52,0.57%,21.15%,15.38%,1.92%
+Wayfair US,white quilt king,Bedding Sets,52,0.02%,82.69%,67.31%,51.92%
+Wayfair US,down comforters,Duvet Fills and Down Comforters,52,0.57%,38.46%,15.38%,3.85%
+Wayfair US,purple bedding sets,Bedding Sets,51,0.02%,60.78%,52.94%,19.61%
+Wayfair US,oversized california king quilt sets,Bedding Sets,51,0.02%,96.08%,78.43%,78.43%
+Wayfair US,king size bed spread,Bedding Sets,51,0.02%,54.9%,35.29%,7.84%
+Wayfair US,queen size bedspreads,Bedding Sets,51,0.02%,66.67%,45.1%,15.69%
+Wayfair US,queen comforter sets green,Bedding Sets,51,0.02%,82.35%,78.43%,41.18%
+Wayfair US,twin duvet cover set,Bedding Sets,51,0.02%,29.41%,15.69%,5.88%
+Wayfair US,bedding twin,Bedding Sets,51,0.02%,68.63%,56.86%,23.53%
+Wayfair US,blue quilt set,Bedding Sets,51,0.02%,86.27%,64.71%,49.02%
+Wayfair US,comforter sets full,Bedding Sets,51,0.02%,74.51%,58.82%,29.41%
+Wayfair US,daybed comforter sets,Bedding Sets,51,0.02%,19.61%,19.61%,0%
+Wayfair US,butterfly bedding,Bedding Sets,51,0.02%,33.33%,1.96%,1.96%
+Wayfair US,furry comforter,Bedding Sets,51,0.02%,72.55%,45.1%,1.96%
+Wayfair US,green comforters,Bedding Sets,50,0.02%,86%,76%,48%
+Wayfair US,bed comforters,Bedding Sets,50,0.02%,66%,36%,12%
+Wayfair US,twin bed in a bag sets,Bedding Sets,50,0.02%,50%,36%,2%
+Wayfair US,queen comforter cover,Bedding Sets,50,0.02%,88%,82%,2%
+Wayfair US,king size luxury bedding,Bedding Sets,50,0.02%,46%,20%,4%
+Wayfair US,modern quilt,Bedding Sets,50,0.02%,88%,80%,28%
+Wayfair US,mens comforter,Bedding Sets,50,0.02%,74%,64%,14%
